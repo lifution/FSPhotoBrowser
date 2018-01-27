@@ -1,0 +1,16 @@
+PODS:
+  - FSPhotoBrowser (1.0.0)
+
+DEPENDENCIES:
+  - FSPhotoBrowser (from `../`)
+
+EXTERNAL SOURCES:
+  FSPhotoBrowser:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FSPhotoBrowser: 9456c3b8db4b9b87d358de305eff08b7bc249be3
+
+PODFILE CHECKSUM: fc1ca0d237df1a4cd6cb4566f460a21a568fc63e
+
+COCOAPODS: 1.4.0.rc.1
